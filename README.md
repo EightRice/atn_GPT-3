@@ -7,9 +7,9 @@ Please clone and customize to submit a new project on Autonet.
 
 
 
-## Features
+## Suggestions
 
 - What will it be able to do once it's trained?
-- Will it cost less on Autonet than what's currently available from centralized providers (Google Cloud, AWS, OpenAI, etc) ?
+- Provide some examples with pictures or links to videos
 - Your revenue distribution
-- Developer profile
+- Your developer profile. 
